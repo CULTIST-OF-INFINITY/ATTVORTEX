@@ -1,0 +1,25 @@
+{
+  "players": {
+    "voided": {
+      "name": "Voided",
+      "kills": 0,
+      "deaths": 0,
+      "creatures": 3,
+      "seconds": 2940
+    },
+    "icey": {
+      "name": "Icey",
+      "kills": 0,
+      "deaths": 0,
+      "creatures": 0,
+      "seconds": 1380
+    },
+    "marwaybun": {
+      "name": "marwaybun",
+      "kills": 0,
+      "deaths": 0,
+      "creatures": 9,
+      "seconds": 660
+    }
+  }
+}
